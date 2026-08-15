@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+   printf("  ~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
+   printf("||                          ||\n");
+   printf("||   GOD BLESS OUR HOME     ||\n");
+   printf("||   -jaojao residence-     ||\n");
+   printf("||                          ||\n");
+   printf("  ~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
+    return 0;
+}
